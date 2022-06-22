@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![iBUA5zBm6G](https://user-images.githubusercontent.com/90038064/153898776-424f65fc-3f24-477d-98bc-32c1864add36.gif)
 
-## Getting Started
+# Getting Started
 
 
 ```bash
